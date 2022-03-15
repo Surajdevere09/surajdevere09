@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Devere</h1>
-<h3 align="center">Aspiring full stack full developer</h3>
+<h3 align="center">Currently learning Full stack web development at Masai School.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajdevere09&label=Profile%20views&color=0e75b6&style=flat" alt="surajdevere09" /> </p>
 
@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/surajdevere" target="blank"><img src="https://img.shields.io/twitter/follow/surajdevere?logo=twitter&style=for-the-badge" alt="surajdevere" /></a> </p>
 
-- 🔭 I’m currently working on **Web development**
-
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React,Javascript **
 
 - 👨‍💻 All of my projects are available at [blinkitclone200.vercel.app](blinkitclone200.vercel.app)
 
@@ -20,8 +18,6 @@
 - 📫 How to reach me **suraj.devere@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xIfoFXolXnZMnumFBL5dMJZqvsAgrh0Z/view?usp=sharing](https://drive.google.com/file/d/1xIfoFXolXnZMnumFBL5dMJZqvsAgrh0Z/view?usp=sharing)
-
-- ⚡ Fun fact **I think I am funny**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
