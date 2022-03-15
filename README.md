@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/surajdevere" target="blank"><img src="https://img.shields.io/twitter/follow/surajdevere?logo=twitter&style=for-the-badge" alt="surajdevere" /></a> </p>
 
-- 🌱 I’m currently learning **React **,Javascript**
+- 🌱 I’m currently learning **React** **,Javascript**
 
 - 👨‍💻 All of my projects are available at [blinkitclone200.vercel.app](blinkitclone200.vercel.app)
 
