@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suraj Devere</h1>
 <h3 align="center">Currently learning Full stack web development at Masai School.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surajdevere09&label=Profile%20views&color=0e75b6&style=flat" alt="surajdevere09" /> </p>
-
 <p align="left"> <a href="https://twitter.com/surajdevere" target="blank"><img src="https://img.shields.io/twitter/follow/surajdevere?logo=twitter&style=for-the-badge" alt="surajdevere" /></a> </p>
 
 - 🌱 I’m currently learning **React** **,Javascript**
