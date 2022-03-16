@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@suraj.devere](https://medium.com/@suraj.devere)
 
-- 💬 Ask me about **JavaScript , DSA**
+- 💬 Ask me about **JavaScript , DSA , MERN**
 
 - 📫 How to reach me **suraj.devere@gmail.com**
 
