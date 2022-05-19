@@ -5,7 +5,7 @@
 
 <!-- - 🌱 I’m currently learning **React** **,Javascript** -->
 
-- 👨‍💻 All of my projects are available at [blinkitclone200.vercel.app](blinkitclone200.vercel.app)
+- 👨‍💻 All of my projects are available at [https://github.com/Surajdevere09?tab=repositories](https://github.com/Surajdevere09?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@suraj.devere](https://medium.com/@suraj.devere)
 
