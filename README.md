@@ -9,11 +9,9 @@
 
 - 📝 I regularly write articles on [https://medium.com/@suraj.devere](https://medium.com/@suraj.devere)
 
-- 💬 Ask me about **JavaScript , DSA , MERN**
+- 💬 Ask me about **JavaScript , Nextjs, Typescript, DSA, MERN**
 
 - 📫 How to reach me **suraj.devere@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xIfoFXolXnZMnumFBL5dMJZqvsAgrh0Z/view?usp=sharing](https://drive.google.com/file/d/1xIfoFXolXnZMnumFBL5dMJZqvsAgrh0Z/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
